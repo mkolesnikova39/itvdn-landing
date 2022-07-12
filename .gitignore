@@ -1,0 +1,20 @@
+.idea/
+
+nodu_modules
+
+npm-debug.log
+
+.DS_Store
+
+### Windows template
+Thumbs.db
+ehthumbs.db
+
+Desktop.ini
+
+$RECYCLE.BIN
+
+*.cab
+*.msi
+*.msm
+*.msp
